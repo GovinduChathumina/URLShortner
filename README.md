@@ -81,4 +81,9 @@ php artisan test
  MySQL / SQLite (dev)
 
 
+ ![ss 01](public/images/ss1.png)
+  ![ss 01](public/images/ss2.png)
+   ![ss 01](public/images/ss3.png)
+
+
  Thank you !
