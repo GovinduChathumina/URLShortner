@@ -82,8 +82,8 @@ php artisan test
 
 
  ![ss 01](public/images/ss1.png)
-  ![ss 01](public/images/ss2.png)
-   ![ss 01](public/images/ss3.png)
+ ![ss 02](public/images/ss2.png)
+ ![ss 03](public/images/ss3.png)
 
 
  Thank you !
